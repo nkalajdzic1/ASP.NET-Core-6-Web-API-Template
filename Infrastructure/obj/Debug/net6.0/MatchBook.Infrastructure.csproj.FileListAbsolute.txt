@@ -1,0 +1,15 @@
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\bin\Debug\net6.0\MatchBook.Infrastructure.deps.json
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\bin\Debug\net6.0\MatchBook.Infrastructure.dll
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\bin\Debug\net6.0\ref\MatchBook.Infrastructure.dll
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\bin\Debug\net6.0\MatchBook.Infrastructure.pdb
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\bin\Debug\net6.0\MatchBook.Core.dll
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\bin\Debug\net6.0\MatchBook.Core.pdb
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\obj\Debug\net6.0\MatchBook.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\obj\Debug\net6.0\MatchBook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\obj\Debug\net6.0\MatchBook.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\obj\Debug\net6.0\MatchBook.Infrastructure.AssemblyInfo.cs
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\obj\Debug\net6.0\MatchBook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\obj\Debug\net6.0\MatchBook.Infrastructure.csproj.CopyComplete
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\obj\Debug\net6.0\MatchBook.Infrastructure.dll
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\obj\Debug\net6.0\ref\MatchBook.Infrastructure.dll
+C:\Users\nadir\Desktop\MatchBook\MatchBook.Infrastructure\obj\Debug\net6.0\MatchBook.Infrastructure.pdb
