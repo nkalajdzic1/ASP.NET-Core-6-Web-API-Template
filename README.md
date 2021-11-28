@@ -1,5 +1,8 @@
 # Custom template
 
+## You can install the template via .NET CLI, in this repository you can find the source code
+url: https://www.nuget.org/packages/Nadir.Kalajdzic.NETCoreWebApi.Template/
+
 ## To use the template do the following:
 
 1. extract the .rar folder to a new folder
